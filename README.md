@@ -9,6 +9,13 @@
   <a href="https://www.behance.net/natymartinez4">Portfólio</a>
 </p>
 
+<div align="center"><br>
+  <img align="center" alt="Naty-C" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
+  <img align="center" alt="Naty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Naty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Naty-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
 ---
 
 ## ✦ sobre mim
