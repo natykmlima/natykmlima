@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">oi, eu sou a Naty! </h1>
 
-<!--
-**natykmlima/natykmlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  ADS student · Designer · Tech enthusiast
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/natashakolossowski/">LinkedIn</a> ·
+  <a href="https://www.behance.net/natymartinez4">Portfólio</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✦ sobre mim
+
+Estudante de Análise e Desenvolvimento de
+Sistemas na Unicamp, com formação em Design
+Gráfico. Gosto de unir tecnologia, design e
+soluções centradas nas pessoas.
+
+## ✦ tecnologias & ferramentas
+
+- **Linguagens:** Python, C, HTML, CSS, JavaScript
+- **Ferramentas:** Git, GitHub, Figma, Adobe
+- **Interesses:** desenvolvimento, UX/UI,
+  acessibilidade e qualidade de software
+
+## ✦ projetos em destaque
+
+- **[Site interativo](https://natykmlima.github.io/fatos-sobre-animais-marinhos/)**
+  - Projeto web com HTML, CSS e JavaScript.
+
+- **[Redesign de interface](https://www.behance.net/gallery/227797099/SoundCloud-Redesign)**
+  - UI/UX, Design System e acessibilidade.
+ 
+- **[Projeto de Microsite](https://www.figma.com/proto/BwwjIjubX4ig8AP1Ffrva0/Dive-for-Lives?node-id=1-712&p=f&viewport=25%2C49%2C0.21&t=bwi3XlyrWbbzttd4-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)**
+  - Foco em design de interface e experiência do usuário..
+
+---
+
+<p align="center">
+  construindo coisas e aprendendo no processo ♡
+</p>
